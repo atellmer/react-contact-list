@@ -1,0 +1,25 @@
+@import 'nib'
+
+:local(.item)
+	display flex 
+	flex-flow row nowrap 
+	justify-content flex-start
+	align-items center
+	padding 30px 20px
+	&:not(:last-child)
+		border-bottom 1px solid #ccc
+
+:local(.pic)
+	max-width 50px
+	border-radius 50%
+	border 1px solid #ccc
+	
+:local(.info)
+	margin 0 0 0 20px
+	
+:local(.name)
+	font-size 1.8rem
+	font-weight 700
+	
+:local(.phone)
+	color #999

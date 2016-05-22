@@ -1,0 +1,26 @@
+[
+	{
+		"id": "0",
+		"name": "Homer Simpson",
+		"phone": "111-111",
+		"avatar": "http://icons.iconarchive.com/icons/jonathan-rey/simpsons/256/Homer-Simpson-02-Donut-icon.png"
+	},
+	{
+		"id": "1",
+		"name": "Marge Simpson",
+		"phone": "222-222",
+		"avatar": "https://d304k3mn1nwj0a.cloudfront.net/the_simpsons/marge.png"
+	},
+	{
+		"id": "2",
+		"name": "Lisa Simpson",
+		"phone": "333-333",
+		"avatar": "https://pbs.twimg.com/profile_images/691266645965324288/__H5GqpN.png"
+	},
+	{
+		"id": "3",
+		"name": "Bart Simpson",
+		"phone": "444-444",
+		"avatar": "http://www.freelogovectors.net/wp-content/uploads/2015/06/Bart-Simpson-01.png"
+	}
+]
